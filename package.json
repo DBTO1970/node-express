@@ -1,0 +1,22 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node Express Examples",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DBTO1970/node-express.git"
+  },
+  "author": "Don Barto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DBTO1970/node-express/issues"
+  },
+  "homepage": "https://github.com/DBTO1970/node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
